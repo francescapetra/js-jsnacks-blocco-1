@@ -10,4 +10,6 @@ if (primoNumero > secondoNumero) {
  console.log(primoNumero);
 }else if (secondoNumero > primoNumero) {
  console.log(secondoNumero);
+}else {
+  console.log ("pari");
 }
