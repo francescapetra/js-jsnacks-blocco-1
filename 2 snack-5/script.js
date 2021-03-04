@@ -5,7 +5,7 @@ var animali = ["cane", "gatto", "topo", "criceto","lupo", "coniglio"];
 
 // add elementi casuali all'array che ne ha meno finchè pareggia
 
-i = animali.length;
+i = colori.length;
 
 do {
   var nuovo = prompt("inserisci elemento");
@@ -20,7 +20,7 @@ do {
 
  i++;
 
-} while (i< colori.length);
+} while (i< animali.length);
 
 
 console.log(animali);
