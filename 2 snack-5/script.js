@@ -24,10 +24,9 @@
 // console.log(animali);
 // console.log(colori);
 
-
-var nuovo;
- var maggiore;
- var minore;
+  var nuovo;
+  var maggiore;
+  var minore;
 
 do {
 // add elementi casuali all'array che ne ha meno finchè pareggia
